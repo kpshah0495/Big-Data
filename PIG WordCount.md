@@ -17,7 +17,7 @@ we use ***-put*** command to tranfer the file in local to our HDFS pig_wordcount
 
 # Step 2 : See the Contents of File Created 
 
-<img src = "PIG WORD COUNT/2.see the content of the file.JPG" height =100 width = 1000>
+<img src = "PIG WORD COUNT/2.see the content of the file.JPG" width = 1000>
 
 Kindly ignore the contents of file as it is self created.
 
